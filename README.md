@@ -1,4 +1,7 @@
 # Credit Card Customer Segmentation using K-Means
+Projeto de segmentação de clientes utilizando Machine Learning não supervisionado e o algoritmo K-Means.
+
+[🇧🇷 Português](README.md) | [🇺🇸 English](README_EN.md)
 
 ## Sobre o Projeto
 
